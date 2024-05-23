@@ -9,7 +9,7 @@ public class Currency_Con extends javax.swing.JFrame
     double Canadian_Dollar = 1.71;
     double Kenyan_Shilling = 132.53;
     double Indonesian_Rupiah = 19554.94;
-    double Indian_Rupee = 83.226;
+    double Indian_Rupee = 83.26;
     double Philippine_Pisco = 71.17;
     double Pakistani_Rupee = 162.74;
 
